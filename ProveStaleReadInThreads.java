@@ -1,4 +1,3 @@
-package com.thruport.aje.rotator.adbuilding;
 
 /**
  * This class proves the stale read of instance variables in Threads. It is difficult to reproduce due to optimization/ rearrangement of byte codes that jvm does.
